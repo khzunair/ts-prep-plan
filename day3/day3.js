@@ -1,3 +1,4 @@
+// Day 3 — Strings, HashMaps, Anagrams, Frequency
 // 📌 Concept 1: Character Frequency with Record<string, number>
 // syntax
 // const freq: Record<string, number> = {};

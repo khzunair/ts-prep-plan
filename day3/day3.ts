@@ -1,3 +1,25 @@
+// Day 3 — Strings, HashMaps, Anagrams, Frequency
+
+
+// const str = "aiman";
+
+
+// function checkFrequency(str: string): Record<string, number>{
+//     str = str.toLowerCase();
+//     const freq: Record<string, number> = {}; 
+
+// for(const char of str){
+//     freq[char] = (freq[char] || 0) + 1; 
+//     // This means:
+//     // 1. If char is already in freq, add 1
+//     // 2. If not, treat it as 0, then add 1 → makes it 1
+// }
+//     return freq
+    
+// }
+
+// console.log(checkFrequency(str))
+
 // 📌 Concept 1: Character Frequency with Record<string, number>
 
 // syntax
