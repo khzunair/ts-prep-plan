@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2015",       // Use modern JS features
+    "module": "commonjs",     // Or "esnext" if you prefer
+    "lib": ["es2015", "dom"], // Include Map, Set, and browser APIs
+    "outDir": "./",           // Keep compiled files where you want them
+    "strict": true            // Good practice
+  },
+  "include": [
+    "day1/**/*.ts",
+    "day2/**/*.ts",
+    "day3/**/*.ts",
+    "day4/**/*.ts"
+  ]
+}

@@ -17,8 +17,6 @@ Each day contains 2–4 core problems, solved in both `.ts` and `.js` for learni
 ├── 📂 day3  
 │ ├── day3.ts  
 │ └── day3.js  
-├── tsconfig.json  
-├── package.json  
 └── README.md  
 
 ---
